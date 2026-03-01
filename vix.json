@@ -1,0 +1,21 @@
+{
+  "name": "watcher",
+  "namespace": "gaspardkirira",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "A tiny header-only C++ library.",
+  "keywords": [
+    "cpp",
+    "header-only",
+    "vix"
+  ],
+  "repository": "https://github.com/Gaspardkirira/watcher",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
+}

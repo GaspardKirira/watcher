@@ -1,0 +1,10 @@
+version = 1
+
+[app]
+kind = "project"
+dir = "."
+name = "watcher"
+entry = "tests/test_basic.cpp"
+
+[build]
+preset = "dev-ninja"
